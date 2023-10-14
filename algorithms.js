@@ -11,3 +11,23 @@
 
 
 */
+
+/*
+
+***** Big-O Notation *****
+
+    The worst case complexity of algorithm is represented by Big-O notation.
+    Big-O notation describes the complexity of an algorithm using algabraic
+    terms.
+
+    It has two important characteristics:
+
+    1) It is expressed in terms of input.
+    2) It focuses on the bigger picture without getting caught up in the
+    minute details.
+
+
+    Big-O Time Complexity
+
+
+*/
