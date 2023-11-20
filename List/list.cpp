@@ -1,3 +1,7 @@
+#include <iostream>
+
+using namespace std;
+
 /*
     List:
 
@@ -23,3 +27,9 @@
     find(x)
     length()
 */
+
+int main()
+{
+
+    return 0;
+}
