@@ -28,7 +28,7 @@ using namespace std;
     length()     => return the length of the list
     get()        => return A[current]
     back()       => current--
-    start()      => current = 0
+    begin()      => current = 0
     end          => current = size
 
     To use the operation in which ? is given, we need to move current pointer and following
